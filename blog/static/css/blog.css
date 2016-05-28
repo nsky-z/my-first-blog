@@ -1,0 +1,35 @@
+body {
+	margin-right:20%;
+	margin-left:20%;
+	background-image: url("https://0.s3.envato.com/files/56549724/Seamless%20pattern%20oriental%2004.jpg")
+}
+
+h1 a {
+    color: #3fb0ac;
+    font-family: Amaranth;
+}
+
+div.specialtitle {background-color:#4136C2;
+}
+
+h1.maintitle a {
+	color:#FFFFFF;
+	margin-left: 34%;
+	font-size: 40px;
+	background-color:#4136C2;
+}
+
+p {background-color: #fae596;
+	opacity: 0.95;
+}
+div {background-color: #fae596; 
+	opacity: 0.95;}
+
+p.published {
+	font-size: 70%;
+ 	font-family: "Allerta Stencil";
+	color: #32cd32;
+	background-color: #dddfd4;
+	background-image: url("http://49.media.tumblr.com/tumblr_m9amnpN9vz1rdwlp0o1_500.gif")
+} 
+
